@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Men</item>
+        <item>Women</item>
+        <item>Child</item>
+        <item>Electronics</item>
+        <item>Home Decore</item>
+        <item>Computer Accessories</item>
+        <item>Personal Care Appliances</item>
+        <item>Gaming</item>
+        <item>Health Care</item>
+    </string-array>
+
+    <string-array name="home">
+
+    </string-array>
+
+    <string-array name="men">
+        <item>Shirt</item>
+        <item>Paint</item>
+        <item>T-Shirt</item>
+        <item>Watch</item>
+        <item>Shoose</item>
+    </string-array>
+
+    <string-array name="women">
+        <item>Jwellery</item>
+        <item>Shirt</item>
+        <item>Paint</item>
+        <item>T-Shirt</item>
+        <item>Watch</item>
+        <item>Shoose</item>
+    </string-array>
+
+    <string-array name="child">
+        <item>Jwellery</item>
+        <item>Shirt</item>
+        <item>Paint</item>
+        <item>T-Shirt</item>
+        <item>Watch</item>
+        <item>Shoose</item>
+    </string-array>
+
+    <string-array name="electronics">
+        <item>Televisions</item>
+        <item>Mobile</item>
+        <item>Tab</item>
+        <item>Refrigerator</item>
+        <item>Audio &amp; Video</item>
+        <item>Cameras</item>
+    </string-array>
+
+    <string-array name="homedecore">
+        <item>Furniture</item>
+        <item>kitchen &amp; Dining</item>
+        <item>Home Furnishing</item>
+        <item>Tools &amp; Hardware</item>
+        <item>Lighting</item>
+        <item>Home Cleaning</item>
+    </string-array>
+
+    <string-array name="computeraccess">
+        <item>RAM &amp; ROM </item>
+        <item>CPU</item>
+        <item>Sound</item>
+        <item>Cabinate</item>
+        <item>Hardisk</item>
+        <item>Motherbord</item>
+    </string-array>
+
+
+
+    <string-array name="personal">
+
+    </string-array>
+    <string-array name="gaming">
+
+    </string-array>
+    <string-array name="health">
+
+    </string-array>
+
+
+
+</resources>
